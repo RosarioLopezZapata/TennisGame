@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Raqueta.qml</file>
+        <file>img/hombrecito.png</file>
+        <file>Contador.qml</file>
+        <file>DS-DIGIB.TTF</file>
+    </qresource>
+</RCC>
